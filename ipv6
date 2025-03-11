@@ -59,6 +59,7 @@ HBO,https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
 山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001031/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+河南卫视,http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303030337C3132307C317C383030307C677877737C687474707C74735B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00
 河南卫视,http://170329.xyz:8999/udp/239.109.205.140:9026
 河南卫视,http://170329.xyz:8999/udp/239.109.205.32:8184
 河南卫视,http://170329.xyz:8999/udp/239.112.205.180:5140
@@ -83,14 +84,15 @@ HBO,https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
 陕西卫视 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001971/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 西藏卫视,http://goo.bkpcp.top/mg/xzws
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
+西藏卫视,http://z.b.bkpcp.top/m.php?id=xzws
 新疆卫视,http://goo.bkpcp.top/mg/xjws
 新疆卫视,http://z.b.bkpcp.top/m.php?id=xjws
 新疆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225536/index.m3u8
 新疆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8
-重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
 云南卫视,http://goo.bkpcp.top/mg/ynws
 云南卫视,http://z.b.bkpcp.top/m.php?id=ynws
 云南卫视,http://live.wqwqwq.sbs/itv/5000000011000031120.m3u8?cdn=bestzb
+吉林卫视,http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303030337C3133307C317C383030307C6A6C77737C687474707C74735B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00
 吉林卫视,http://z.b.bkpcp.top/m.php?id=jlws
 吉林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 吉林卫视,https://www.freetv.top/migu/947472500.m3u8?migutoken=3ea6f853b75f0ffefb45361abd4f4afde99a41c67eb1d480a3e4e1d7fb1a0dd6f93e6011475330b929d27f5b3fed5ab892298676a54c05a9741d9a11dc442899f4101d60bec353f2a25c1c2c78
